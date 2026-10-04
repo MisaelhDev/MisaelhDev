@@ -5,11 +5,11 @@ I build practical, modern, and user-focused web applications, working across bot
 
 🚀 About Me
 
-💻 Junior Full-Stack Developer
-🌎 Based in Dominican Republic
-🔭 Currently building full-stack web applications
-🧠 Continuously learning and improving my development skills
-🎯 Focused on writing clean, functional, and maintainable code
+- 💻 Junior Full-Stack Developer
+- 🌎 Based in Dominican Republic
+- 🔭 Currently building and improving full-stack projects
+- 🧠 Continuously learning and improving my development skills
+- 🎯 Focused on writing clean, functional, and maintainable code
 
 
 🛠️ Technologies
