@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Hi, I'm Misael Hernández
 
-<!--
-**MisaelhDev/MisaelhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full-Stack Developer
+I build practical, modern, and user-focused web applications, working across both frontend and backend development.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Junior Full-Stack Developer
+🌎 Based in Dominican Republic
+🔭 Currently building full-stack web applications
+🧠 Continuously learning and improving my development skills
+🎯 Focused on writing clean, functional, and maintainable code
+
+
+🛠️ Technologies
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+  
+### Backend
+- Node.js
+- Express
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+
+### 🤖 AI Development Tools
+- Claude Code
+- Cursor
+- Antigravity
+
+## 📂 Featured Projects
+
+Projects will be added here as I build and deploy them.
+
+## 📫 Contact
+
+- 📧 Email: [Your professional email]
+- 💼 LinkedIn: [Your LinkedIn]
+- 🌐 Portfolio: Coming soon
