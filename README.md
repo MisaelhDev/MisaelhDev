@@ -42,6 +42,6 @@ Projects will be added here as I build and deploy them.
 
 ## 📫 Contact
 
-- 📧 Email: [Your professional email]
+- 📧 Email: misaelh.dev@gmail.com
 - 💼 LinkedIn: [Your LinkedIn]
 - 🌐 Portfolio: Coming soon
