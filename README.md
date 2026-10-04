@@ -1,9 +1,10 @@
-👋 Hi, I'm Misael Hernández
+# 👋 Hi, I'm Misael Hernández
 
-💻 Junior Full-Stack Developer
+### 💻 Junior Full-Stack Developer
+
 I build practical, modern, and user-focused web applications, working across both frontend and backend development.
 
-🚀 About Me
+## 🚀 About Me
 
 - 💻 Junior Full-Stack Developer
 - 🌎 Based in Dominican Republic
@@ -12,7 +13,7 @@ I build practical, modern, and user-focused web applications, working across bot
 - 🎯 Focused on writing clean, functional, and maintainable code
 
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 ### Frontend
 - HTML
